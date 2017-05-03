@@ -9,6 +9,7 @@ Dagbók.
       - Made the repo.
       - Started working on the base.
       - getting things sorted.
+      
 02/05/2017
   - Styrmir Óli.
       - Working on dhcp.
