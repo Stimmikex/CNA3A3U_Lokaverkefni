@@ -35,3 +35,8 @@ Dagbók.
       - Working on dhcp.
   - Alexander Freyr
       - Debugging dhcp problems.
+
+04/05/2017
+  - Alexander Freyr.
+    - DHCP debugging
+    - Configured DHCP for floor 3
