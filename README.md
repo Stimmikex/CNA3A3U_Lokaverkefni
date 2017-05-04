@@ -33,3 +33,5 @@ Dagbók.
 02/05/2017
   - Styrmir Óli.
       - Working on dhcp.
+  - Alexander Freyr
+      - Debugging dhcp problems.
